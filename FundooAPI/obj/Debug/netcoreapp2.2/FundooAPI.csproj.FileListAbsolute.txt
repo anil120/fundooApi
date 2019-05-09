@@ -1,0 +1,17 @@
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.csprojAssemblyReference.cache
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.csproj.CoreCompileInputs.cache
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.RazorAssemblyInfo.cache
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.RazorAssemblyInfo.cs
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.AssemblyInfoInputs.cache
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.AssemblyInfo.cs
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooAPI.deps.json
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooAPI.runtimeconfig.json
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooAPI.runtimeconfig.dev.json
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooAPI.dll
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooAPI.pdb
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooData.dll
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\bin\Debug\netcoreapp2.2\FundooData.pdb
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.RazorTargetAssemblyInfo.cache
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.csproj.CopyComplete
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.dll
+D:\Angular\FundooAPI\FundooAPI\FundooAPI\obj\Debug\netcoreapp2.2\FundooAPI.pdb

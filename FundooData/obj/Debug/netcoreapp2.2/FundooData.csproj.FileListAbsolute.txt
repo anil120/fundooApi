@@ -1,0 +1,11 @@
+D:\Angular\FundooAPI\FundooAPI\FundooData\bin\Debug\netcoreapp2.2\FundooData.deps.json
+D:\Angular\FundooAPI\FundooAPI\FundooData\bin\Debug\netcoreapp2.2\FundooData.runtimeconfig.json
+D:\Angular\FundooAPI\FundooAPI\FundooData\bin\Debug\netcoreapp2.2\FundooData.runtimeconfig.dev.json
+D:\Angular\FundooAPI\FundooAPI\FundooData\bin\Debug\netcoreapp2.2\FundooData.dll
+D:\Angular\FundooAPI\FundooAPI\FundooData\bin\Debug\netcoreapp2.2\FundooData.pdb
+D:\Angular\FundooAPI\FundooAPI\FundooData\obj\Debug\netcoreapp2.2\FundooData.csproj.CoreCompileInputs.cache
+D:\Angular\FundooAPI\FundooAPI\FundooData\obj\Debug\netcoreapp2.2\FundooData.AssemblyInfoInputs.cache
+D:\Angular\FundooAPI\FundooAPI\FundooData\obj\Debug\netcoreapp2.2\FundooData.AssemblyInfo.cs
+D:\Angular\FundooAPI\FundooAPI\FundooData\obj\Debug\netcoreapp2.2\FundooData.dll
+D:\Angular\FundooAPI\FundooAPI\FundooData\obj\Debug\netcoreapp2.2\FundooData.pdb
+D:\Angular\FundooAPI\FundooAPI\FundooData\obj\Debug\netcoreapp2.2\FundooData.csprojAssemblyReference.cache

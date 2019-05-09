@@ -1,0 +1,14 @@
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\bin\Debug\netcoreapp2.2\SignalRHub.deps.json
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\bin\Debug\netcoreapp2.2\SignalRHub.runtimeconfig.json
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\bin\Debug\netcoreapp2.2\SignalRHub.runtimeconfig.dev.json
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\bin\Debug\netcoreapp2.2\SignalRHub.dll
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\bin\Debug\netcoreapp2.2\SignalRHub.pdb
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.csprojAssemblyReference.cache
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.csproj.CoreCompileInputs.cache
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.RazorAssemblyInfo.cache
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.RazorAssemblyInfo.cs
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.AssemblyInfoInputs.cache
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.AssemblyInfo.cs
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalIR-Hub.RazorTargetAssemblyInfo.cache
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalRHub.dll
+D:\Angular\FundooAPI\FundooAPI\SignalIR-Hub\obj\Debug\netcoreapp2.2\SignalRHub.pdb

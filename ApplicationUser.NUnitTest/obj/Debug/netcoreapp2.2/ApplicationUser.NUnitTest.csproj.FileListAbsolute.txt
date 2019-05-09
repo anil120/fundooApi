@@ -1,0 +1,14 @@
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.deps.json
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.runtimeconfig.json
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.runtimeconfig.dev.json
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.dll
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\bin\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.pdb
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\obj\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.csprojAssemblyReference.cache
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\obj\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.csproj.CoreCompileInputs.cache
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\obj\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.AssemblyInfoInputs.cache
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\obj\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.AssemblyInfo.cs
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\obj\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.dll
+D:\Angular\FundooAPI\FundooAPI\ApplicationUser.NUnitTest\obj\Debug\netcoreapp2.2\ApplicationUser.NUnitTest.pdb
